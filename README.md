@@ -474,8 +474,5 @@ Passwords are created with Werkzeug password hashing. The verifier also supports
 ### Built for practical AI-assisted traffic incident monitoring
 
 `Flask` · `YOLOv8` · `OpenCV` · `SQLite` · `Admin Dashboard` · `Responder Workflow`
-## 👩‍💻 Development Team 
-Amal Alharbi
-Hams Alghusuni
 
 </div>
